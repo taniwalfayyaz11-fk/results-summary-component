@@ -161,12 +161,15 @@ body {
   padding: 13px 10px;
   width: 17.1rem;
   border-radius: 39px;
-  font-size: 16px;
   border: none;
   background: #303b5a;
-  color: #ffffff;
   transform: translate(6px, 28px);
   cursor: pointer;
+}
+a {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 16px;
 }
 .all {
   display: flex;
